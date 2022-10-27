@@ -1,9 +1,9 @@
+package calculadora_textual;
 import java.util.Scanner;
 
 public class Start {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// variables
+		// Menu option
 		int menuOption;
 		
 		// print head
